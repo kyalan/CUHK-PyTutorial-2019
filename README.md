@@ -7,7 +7,7 @@ This is the material page for Python 101 Summer Course, in 2019.
 A part of CUHK MSc Program in Data Science and Business Statistics.
 
 
-This course consists of 5 classes, which will be completed at 1400 - 1700, in 5 Saturday, in RMS Lab (LSB G25). 
+This course consists of 5 classes, which will be completed at 1430 - 1715, in 5 Saturday, in RMS Lab (LSB G25). 
 
 The following is the schedule.
 
