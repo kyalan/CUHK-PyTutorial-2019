@@ -1,6 +1,10 @@
 # CUHK-PyTutorial-2019
 Python 101 Summer Course for CUHK MSc Data Science and Business Statistics, in 2019
 
+# [Updated at 2300, 30 June 2019] Week 1 classwork answer has been uploaded.
+This website will be simultaneously updated with CUHK blackboard.
+Students registered can login CUHK blackboard for materials or discussion.
+
 # Welcome ! Python 101 Summer Course 2019
 This is the material page for Python 101 Summer Course, in 2019.
 
@@ -13,7 +17,7 @@ The following is the schedule.
 
 Hopefully all you guys can enjoy ~ ! :sunglasses:
 
-## Schedule (Tentative)
+## Schedule
 22 June 2019 - Week 1 - Python Basics, IO, strings, datetime
   * Introduction to Python, with Jupyter / Spyder (py4e Ch.1-2)
   * Python Basics, Conditional Statements, Functions, Loops (py4e Ch.3-6)
