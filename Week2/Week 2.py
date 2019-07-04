@@ -5,21 +5,21 @@ print(['red', 24, 98.6])
 print([ 1, [5, 6], 7])
 print([])
 
-friends = ['Joseph', 'Glenn', 'Sally']
-for friend in friends :
-    print('Happy New Year:',  friend)
+professors = ['Michael', 'Tony', 'Ben']
+for prof in professors :
+    print('Happy New Year:',  prof)
 print('Done!')
-print(friends[1])
-print(len(friends))
-print(range(len(friends)))
+print(professors[1])
+print(len(professors))
+print(range(len(professors)))
 
-for i in range(len(friends)):
-    print('Happy New Year:',  friends[i])
+for i in range(len(professors)):
+    print('Happy New Year:',  professors[i])
 	
-friends.sort()
-print(friends)
-friends.reverse()
-print(friends)
+professors.sort()
+print(professors)
+professors.reverse()
+print(professors)
 	
 # List Concatenation
 a = [1, 2, 3]
@@ -67,7 +67,7 @@ print(line.split(';'))
 ###############################
 
 # Tuple
-x = ('Glenn', 'Sally', 'Joseph')
+x = ('Iris', 'Yanny', 'Wendy')
 print(x[2])
 y = ( 1, 9, 2 )
 print(y)
@@ -89,7 +89,7 @@ type(numtuple)
 dir(numtuple)
 
 # multiple assignment
-(x, y) = (4, 'fred')
+(x, y) = (4, 'esther')
 print(y)
 a, b = (99, 98)
 print(a)
@@ -111,17 +111,17 @@ print(purse['candy'])
 purse['candy'] = purse['candy'] + 2
 print(purse)
 
-jjj = { 'chuck' : 1 , 'fred' : 42, 'jan': 100}
+jjj = { 'Ben' : 1 , 'Tony' : 42, 'Philip': 100}
 print(jjj)
 
 # Counting Example
-ccc = {'csev':1, 'cwen':2}
+ccc = {'Alan':1, 'Tony':2}
 print(ccc)
-print(ccc['cmen'])
-'csev' in ccc
+print(ccc['Ben'])
+'Ben' in ccc
 
-counts = dict()
-names = ['csev', 'cwen', 'csev', 'zqian', 'cwen']
+counts = {}
+names = ['Ben', 'Tony', 'Ben', 'Philip', 'Michael']
 for name in names :
     if name not in counts: 
 		counts[name] = 1
@@ -129,14 +129,14 @@ for name in names :
         counts[name] = counts[name] + 1
 print(counts)
 
-counts = dict()
-names = ['csev', 'cwen', 'csev', 'zqian', 'cwen']
+counts = {}
+names = ['Ben', 'Tony', 'Ben', 'Philip', 'Michael']
 for name in names :
     counts[name] = counts.get(name, 0) + 1
 print(counts)
 
 #############################
-# Exercise --> Ex2.3.py
+# Exercise --> Ex2.2.py
 # Word Count (from Welcome from Song XY)
 ###############################
 
@@ -165,10 +165,10 @@ print(my_list)
 my_list2 = [number for number in range(1000) if number % 2 == 0]
 print(my_list2)
 
-friends = ['Joseph', 'Glenn', 'Sally']
-for friend in friends :
-    print('Happy New Year:',  friend)
-[print('Happy New Year:',  friend) for friend in friends]
+professors = ['Michael', 'Tony', 'Ben']
+for prof in professors :
+    print('Happy New Year:',  prof)
+[print('Happy New Year:',  prof) for prof in professors]
 
 # Dictionary Comprehension
 cabins = ['First Class', 'Business', 'Economy']
@@ -176,7 +176,7 @@ nchar_cabins = {cabin: len(cabin) for cabin in cabins}
 print(nchar_cabins)
 
 #############################
-# Exercise --> Ex2.4.py
+# Exercise --> Ex2.3.py
 ###############################
 
 # detailed explanation to pandas in pptx
@@ -237,6 +237,6 @@ prices += 160
 print(prices)
 
 #############################
-# Exercise --> Ex2.5.py
+# Exercise --> Ex2.4.py
 # Assignment 2
 ###############################
