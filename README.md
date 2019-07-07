@@ -1,6 +1,13 @@
 # CUHK-PyTutorial-2019
 Python 101 Summer Course for CUHK MSc Data Science and Business Statistics, in 2019
 
+# Week 2 classwork answer has been uploaded.
+[Update on 7 July]
+
+# Week 1 assignment answer has been uploaded (to blackboard only).
+[Update on 7 July]\
+Please access into CUHK blackboard for checking.
+
 # Week 2 notes have been uploaded.
 [Update on 4 July]
 
