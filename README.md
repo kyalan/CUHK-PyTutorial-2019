@@ -1,6 +1,10 @@
 # CUHK-PyTutorial-2019
 Python 101 Summer Course for CUHK MSc Data Science and Business Statistics, in 2019
 
+# The Date of Week 5 will be moved to 3 Aug 2019 (Sat). Please be well noted.
+# Week 3 classwork answer has been uploaded.
+[Update on 16 July]
+
 # Week 3 notes have been uploaded.
 [Update on 11 July]\
 In addition, please check out one of the materials - train.csv.zip - the large dataset in CUHK Blackboard.
