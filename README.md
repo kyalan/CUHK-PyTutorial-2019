@@ -56,7 +56,7 @@ Hopefully all you guys can enjoy ~ ! :sunglasses:
   * How data moves across www using HTTP, and hence Web Scraping (py4e Ch.13)
   * different kinds of APIs - Google, Twitter, data.gov.hk (py4e Ch.14)
 
-27 July 2019 - Week 5 - Numpy, univariate statistics, random generators, Plots, and the other topics
+~~27 July 2019~~ 3 Aug 2019 - Week 5 - Numpy, univariate statistics, random generators, Plots, and the other topics
   * Python Numeric Package: Numpy (dsPy Week 1)
   * Uni-variate Statistics, Statistical Distributions, Generate Random numbers (dsPy Week 4)
   * Python Data Visual Package: Matplotlib, Seaborn (dsPy Plots Week 2-4)
