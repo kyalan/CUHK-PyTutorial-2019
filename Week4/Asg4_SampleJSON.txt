@@ -1,0 +1,564 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ75n4SWMABDQRiri4ikDmHYM",
+         "types" : [ "atm", "bank", "establishment", "finance", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJr4ERXZ4IBDQRnqJ-S1Q85Tw",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 22.4198685,
+               "lng" : 114.2108264
+            },
+            "southwest" : {
+               "lat" : 22.2836634,
+               "lng" : 114.1404474
+            }
+         },
+         "copyrights" : "地圖資料©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "23.2 公里",
+                  "value" : 23193
+               },
+               "duration" : {
+                  "text" : "25 分",
+                  "value" : 1516
+               },
+               "end_address" : "香港沙田",
+               "end_location" : {
+                  "lat" : 22.4198641,
+                  "lng" : 114.2067566
+               },
+               "start_address" : "83 Des Voeux Road Central, 香港",
+               "start_location" : {
+                  "lat" : 22.2843775,
+                  "lng" : 114.1563426
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "31 公尺",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 22.2842107,
+                        "lng" : 114.1560973
+                     },
+                     "html_instructions" : "朝\u003cb\u003e西南\u003c/b\u003e，走\u003cb\u003e域多利皇后街\u003c/b\u003e，往\u003cb\u003e德輔道中\u003c/b\u003e前進",
+                     "polyline" : {
+                        "points" : "kl_gCcdwwT`@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.2843775,
+                        "lng" : 114.1563426
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "74 公尺",
+                        "value" : 74
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 22.2836634,
+                        "lng" : 114.1565141
+                     },
+                     "html_instructions" : "請在第 1 個十字路口向\u003cb\u003e左\u003c/b\u003e轉，走到\u003cb\u003e德輔道中\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ik_gCsbwwTlBqA"
+                     },
+                     "start_location" : {
+                        "lat" : 22.2842107,
+                        "lng" : 114.1560973
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 公尺",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 22.2840448,
+                        "lng" : 114.157078
+                     },
+                     "html_instructions" : "請於\u003cb\u003e砵甸乍街\u003c/b\u003e向\u003cb\u003e左\u003c/b\u003e轉",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{g_gCeewwT{@yAOW"
+                     },
+                     "start_location" : {
+                        "lat" : 22.2836634,
+                        "lng" : 114.1565141
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 公里",
+                        "value" : 104
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 22.2848077,
+                        "lng" : 114.156487
+                     },
+                     "html_instructions" : "走\u003cb\u003e干諾道中\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "gj_gCwhwwTaBlAw@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.2840448,
+                        "lng" : 114.157078
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 公里",
+                        "value" : 1202
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 22.2886242,
+                        "lng" : 114.145967
+                     },
+                     "html_instructions" : "靠\u003cb\u003e右\u003c/b\u003e繼續走\u003cb\u003eRumsey Street Flyover\u003c/b\u003e/\u003cb\u003e4 號幹線\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "ao_gCaewwTQJSHKBSBWFIDKDMJCBMHKLMLINKVABIRK`@a@lA[z@Q`@EHa@v@Sb@Un@GPGPCHKb@Kd@S|@Or@AJOp@Op@Op@k@pCWfAI`@GZGXG^G^CLObAO|@Ih@ABCRCRAFOhAGXEXMfAEl@Cd@Ch@KxBK`C"
+                     },
+                     "start_location" : {
+                        "lat" : 22.2848077,
+                        "lng" : 114.156487
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 公里",
+                        "value" : 845
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 22.2900963,
+                        "lng" : 114.1421175
+                     },
+                     "html_instructions" : "於\u003cb\u003e13\u003c/b\u003e出口 (\u003cb\u003e3 號幹線\u003c/b\u003e 出口) 駛出，朝\u003cb\u003eAirport\u003c/b\u003e/\u003cb\u003eKowloon (W)\u003c/b\u003e/\u003cb\u003e機場\u003c/b\u003e/\u003cb\u003e九龍（西）\u003c/b\u003e前進\u003cdiv style=\"font-size:0.9em\"\u003e收費路段\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "{f`gCicuwTHV?B@JANAVMbCG~@Ev@E`AAh@Ch@Ex@KbD?H?^F|A?x@Ad@APMf@Sf@a@h@MHSHA@YDW?A?I?KAMCKCo@YGGEEIQKQGWEUAW?SBa@DQFUJYN_@FY"
+                     },
+                     "start_location" : {
+                        "lat" : 22.2886242,
+                        "lng" : 114.145967
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.0 公里",
+                        "value" : 2953
+                     },
+                     "duration" : {
+                        "text" : "3 分",
+                        "value" : 170
+                     },
+                     "end_location" : {
+                        "lat" : 22.3077439,
+                        "lng" : 114.1608871
+                     },
+                     "html_instructions" : "接著走\u003cb\u003e3 號幹線\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003e收費路段\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "cp`gCgktwTpAaCNa@Nc@BCF_@BG@SFo@@o@Bm@?_@C{@QsAWmA_@cAk@kAg@u@qMqLYWc\\eZsFyE[WyCkCs@m@_BwAaEkDSQaCyB_BsAiC}BA?q@k@a@[]Sa@WuAm@qBcAcCmAOGwGkC}CiA"
+                     },
+                     "start_location" : {
+                        "lat" : 22.2900963,
+                        "lng" : 114.1421175
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 公里",
+                        "value" : 622
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 22.3132795,
+                        "lng" : 114.1606682
+                     },
+                     "html_instructions" : "在\u003cb\u003e2\u003c/b\u003e出口駛出，朝\u003cb\u003eTai Kok Tsui\u003c/b\u003e/\u003cb\u003eSha Tin\u003c/b\u003e/\u003cb\u003e大角咀\u003c/b\u003e/\u003cb\u003e沙田\u003c/b\u003e前進\u003cdiv style=\"font-size:0.9em\"\u003e部分收費路段\u003c/div\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "k~cgCq`xwTMDC?C?c@GmBYe@AU?[Bk@Dc@AI@Q@e@FsFj@UBG?W?{AH}ABmDK[?I@I@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.3077439,
+                        "lng" : 114.1608871
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "25 公尺",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 22.3134927,
+                        "lng" : 114.1607538
+                     },
+                     "html_instructions" : "請於\u003cb\u003e海寶路\u003c/b\u003e稍向\u003cb\u003e右\u003c/b\u003e轉",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "_aegCe_xwTi@O"
+                     },
+                     "start_location" : {
+                        "lat" : 22.3132795,
+                        "lng" : 114.1606682
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 公里",
+                        "value" : 673
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 22.319251,
+                        "lng" : 114.1588986
+                     },
+                     "html_instructions" : "繼續直行走\u003cb\u003e連翔道\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ibegCu_xwTk@GY?o@Bw@Hi@Hu@Ni@Jw@TeFlAqA`@wA^mCv@OFE@u@VeDdA"
+                     },
+                     "start_location" : {
+                        "lat" : 22.3134927,
+                        "lng" : 114.1607538
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 公里",
+                        "value" : 984
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 22.3261741,
+                        "lng" : 114.1531345
+                     },
+                     "html_instructions" : "靠\u003cb\u003e右\u003c/b\u003e繼續行駛\u003cb\u003e連翔道\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "iffgCctwwTiBl@y@^gAf@iBz@cAh@m@`@WN]P[PUNYRYPe@Z]VGDi@`@[R]XURYTy@l@m@d@[T_A`AMLm@n@SRUV_@d@U`@cEfG"
+                     },
+                     "start_location" : {
+                        "lat" : 22.319251,
+                        "lng" : 114.1588986
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 公里",
+                        "value" : 800
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 22.3299354,
+                        "lng" : 114.1466072
+                     },
+                     "html_instructions" : "稍向\u003cb\u003e右\u003c/b\u003e轉後，繼續留在\u003cb\u003e連翔道\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qqggCapvwTs@d@uCjDwBjDGLgBpDoAzCqAfD]`AoAnE_@vAOj@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.3261741,
+                        "lng" : 114.1531345
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 公里",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 22.3305379,
+                        "lng" : 114.145084
+                     },
+                     "html_instructions" : "在交叉路靠\u003cb\u003e右\u003c/b\u003e，繼續往 \u003cb\u003e青沙公路\u003c/b\u003e/\u003cb\u003e8 號幹線\u003c/b\u003e 前進",
+                     "maneuver" : "fork-right",
+                     "polyline" : {
+                        "points" : "cihgCiguwTm@rBm@lBIXK\\EV"
+                     },
+                     "start_location" : {
+                        "lat" : 22.3299354,
+                        "lng" : 114.1466072
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.6 公里",
+                        "value" : 7631
+                     },
+                     "duration" : {
+                        "text" : "7 分",
+                        "value" : 407
+                     },
+                     "end_location" : {
+                        "lat" : 22.3781484,
+                        "lng" : 114.1834731
+                     },
+                     "html_instructions" : "在交叉路靠\u003cb\u003e左\u003c/b\u003e，依照 \u003cb\u003eSha Tin\u003c/b\u003e/\u003cb\u003e8 號幹線\u003c/b\u003e/\u003cb\u003e沙田\u003c/b\u003e 標誌的指示，併入 \u003cb\u003e青沙公路\u003c/b\u003e/\u003cb\u003e8 號幹線\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003e部分收費路段\u003c/div\u003e",
+                     "maneuver" : "fork-left",
+                     "polyline" : {
+                        "points" : "{lhgCw}twTIbBE~@E`A?HAFCJELEJGJGJIFKFKDKDI@K@I?I?I?IAIAICc@Sc@Ua@SOMe@]]UUMICEC[GQEGAo@G[CkBKUAu@Aq@CWA}@CMAa@C]AWAc@CcAE}@Ks@Au@CcBCu@@YBy@Do@LC@]Hk@Ne@PiAd@o@XeBn@iA`@q@Ro@LYDU@G@U@[@U?O?S?e@E}@OcAOa@MGC]M[I[OCC[QMGc@]YUWQUSYUMKGGEEEEIGEGGGMSEIGGY_@u@gAYc@IMg@m@QW]a@c@c@Y[KKWYa@g@a@g@OQIM[a@{@_BeAmBGUk@cBWoAIc@AEYaBAGGe@_@qCSqAQiAy@aEq@gCAIKYa@cAQa@ISEMa@eAOa@c@cAGMKQe@aAS_@CEOYU_@U_@i@}@i@}@o@y@MQIKY[q@u@q@w@cAkAGGYY[YIIQM[W[WOMKIkAy@KG]U]U]S]U]U_@SOMME_@S_@Q]QIEWK_@O_@Q_@O_@Qa@OECYK_@Q_@OCC[MaCcAy@[_@Oe@SYMm@U]MA?_AUCA]IQCuAUsFmAmAYa@K]GGCYGs@McAWq@Qg@MKG_@OUK_@SIE]SKG}BwAQMs@m@_A_AsAgB_AcB{@mBq@cB[qAOu@YmAa@gBUq@Wu@qAuDS[c@y@c@s@m@cAw@aAWYi@i@o@g@]WoCwBsAcA]UKIm@a@u@c@cAe@[MYKWIOGICGCKCKCA?OCOCAA_@GC?]IMCaAUGAk@Qc@M[Kq@Sy@WiA]mCk@}AYCAE?KCy@MeA_@QIWO][MIYYCASSc@i@MSKQk@yAk@cBOa@Uq@Ke@Ke@Ge@Ge@Ge@I_AEg@Ck@Au@@OByA@a@?gA@k@C_@Ek@?AE[Km@Qy@Mi@AG[sACOAMA_@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.3305379,
+                        "lng" : 114.145084
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.5 公里",
+                        "value" : 3466
+                     },
+                     "duration" : {
+                        "text" : "3 分",
+                        "value" : 181
+                     },
+                     "end_location" : {
+                        "lat" : 22.4019499,
+                        "lng" : 114.2041102
+                     },
+                     "html_instructions" : "走\u003cb\u003e新界環迴公路\u003c/b\u003e/\u003cb\u003e9 號幹線\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "mvqgCum|wTWiA]qAIWKWGQQ_@GKa@o@[e@GKk@m@KIYScBw@}BkAkAm@_Am@oAaAcCiBYUWUyAgA}@m@oFoDoA_AkBqAgBmAkCoBeA}@q@o@g@e@cBeB_AeAi@m@aAiAkAwAoA}A}AaC_@k@]k@MUmAgCe@mAKYQ_@EKo@}A]u@Wg@Uc@Wa@MQOSy@y@u@_@o@[uA_@}Aa@i@M}By@y@a@u@[eE}BaB{@oAq@y@k@wKgGw@_@o@]wBkAkEaC]S]UGC"
+                     },
+                     "start_location" : {
+                        "lat" : 22.3781484,
+                        "lng" : 114.1834731
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 公里",
+                        "value" : 292
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 22.4041013,
+                        "lng" : 114.2057047
+                     },
+                     "html_instructions" : "於\u003cb\u003e2D\u003c/b\u003e出口 (\u003cb\u003eTai Po Road\u003c/b\u003e/\u003cb\u003e大埔公路\u003c/b\u003e 出口) 駛出",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "ekvgCun`xTKAGCGAOIWOkAu@s@i@_@Ym@g@sAmACCCCECGEOGUKKE"
+                     },
+                     "start_location" : {
+                        "lat" : 22.4019499,
+                        "lng" : 114.2041102
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 公尺",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 22.4049134,
+                        "lng" : 114.2058435
+                     },
+                     "html_instructions" : "走\u003cb\u003e大埔公路馬料水段\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "sxvgCsx`xTUAUAKAKAc@EUEMCIAKA"
+                     },
+                     "start_location" : {
+                        "lat" : 22.4041013,
+                        "lng" : 114.2057047
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 公里",
+                        "value" : 1022
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 22.4110174,
+                        "lng" : 114.2098354
+                     },
+                     "html_instructions" : "在迴旋處，於\u003cb\u003e第二個\u003c/b\u003e出口駛出，繼續走\u003cb\u003e大埔公路馬料水段\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003e經過一個迴旋處\u003c/div\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "u}vgCoy`xTA??@A@A@A@A?A@A?A?A@A?A?A?A?A?AAA?AAA?AAAAAA?AA??A?AA??A?A?AA??A?A?A?A?C@A?A?A@??A?A@??A@AKe@GWE]Ei@CSGYGUIW_@s@EIACGIY]EGMMOUW]ABEBC@E@CAA?A??AA?AAA??AA??A?AA??A?AA??A?A?A?A?A?A?A@??A?A@??A?A@??A@??ABAOw@[yA_@kAIUGKIMCEGKIIGIEGKIKGKGMGYKICcCe@WIMEOGYMWKe@Us@YWK[EKAKAK@K?M@OBMFQFQJWNYXa@^UPe@Tm@Ve@V"
+                     },
+                     "start_location" : {
+                        "lat" : 22.4049134,
+                        "lng" : 114.2058435
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 公里",
+                        "value" : 1098
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 22.4179691,
+                        "lng" : 114.2029293
+                     },
+                     "html_instructions" : "在迴旋處，於\u003cb\u003e第二個\u003c/b\u003e出口駛出，繼續走\u003cb\u003e大埔公路馬料水段\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "{cxgCoraxT@@?@?@?@?@?@?@?@A@?@A??@A??@A??@A?A?A??@A?AAA?A?AAA??AA??AAA?AAA?A?A?A?A?A@?WCM?oAFK@I@G@MDOFOHGDA@KHIHGHQTeAxAe@n@i@v@ORSVKLOPe@f@UTi@f@w@r@EBMLONSTY\\i@n@gArAiBvBwIzJIJQREDOTGFIRKVK\\"
+                     },
+                     "start_location" : {
+                        "lat" : 22.4110174,
+                        "lng" : 114.2098354
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 公里",
+                        "value" : 564
+                     },
+                     "duration" : {
+                        "text" : "2 分",
+                        "value" : 108
+                     },
+                     "end_location" : {
+                        "lat" : 22.4185084,
+                        "lng" : 114.2080051
+                     },
+                     "html_instructions" : "請於\u003cb\u003e大學道\u003c/b\u003e向\u003cb\u003e右\u003c/b\u003e轉",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ioygCig`xTa@MQIOKGIEGYg@_@q@MWCQAK?e@Cm@@eA?I?uBFo@@KHq@Fe@@EFoADw@HmB@i@?qAAK"
+                     },
+                     "start_location" : {
+                        "lat" : 22.4179691,
+                        "lng" : 114.2029293
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 公里",
+                        "value" : 472
+                     },
+                     "duration" : {
+                        "text" : "1 分",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 22.4198641,
+                        "lng" : 114.2067566
+                     },
+                     "html_instructions" : "請於\u003cb\u003e中央路\u003c/b\u003e向\u003cb\u003e左\u003c/b\u003e轉\u003cdiv style=\"font-size:0.9em\"\u003e目的地將在左邊\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "urygCagaxTW@ICA?AACACCACAGCu@A]AEAQC[GOEIGIEEGGKGQGWKWIGCA?IAC?I?EBCDA@?DAF@F?HAPCJCLSTCF?@EJAHAH?@?NAdBAvA?F?F?n@?^@l@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.4185084,
+                        "lng" : 114.2080051
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kl_gCcdwwT`@n@lBqAkAqByCtBe@TaATk@^YZUf@y@fCm@|Ag@`Ai@rAOb@o@pCq@bD}AlH_@tBy@lFk@dEYvFK`CHV@NYjFQlEQ|E?h@FvCCv@Mf@Sf@o@r@UJq@De@E{@]MMUc@Mm@Ak@Hs@Ro@Vy@pAaCNa@Rg@Jg@HcAD}AC{AQsAWmAkAoCg@u@qMqL}\\}Z}MkLwLoKiFqEs@k@_Ao@wBeAuFqCgHsC}CiAMDG?qCa@{@AgAHm@?aIx@_@?{AH}ABiEKSBi@Ok@GiABaBR_BZ}GbBiD`AyExAoGrBaCfAmDdBeAp@iBfAeBjAeAt@s@l@}C~BoCrCu@|@yEhHs@d@uCjD_CxDgBpDoAzCoBhFoBfH}@~Cw@fCQt@UnFQl@OVUNWJUBg@ASEgAi@q@a@cAs@_@Qa@KYGkAKaCMgBEeCK}CM}@Ks@AyCGoADy@Do@La@Jk@Ne@PyB~@oDpAaB`@o@FoADc@?cBUcAOa@Me@Qw@Y_@UcBmAaByAwCgEy@eAaAeA_BiBq@y@e@o@aCmEs@yB}@{E}@qGkAkGs@qCiAsCw@uB}AeDgD{FaBsBoDaEqAkAsAgAmFmD}A{@_Bu@aFuB{IsDkAc@aAUiCe@{OmDyA_@k@W}Ay@iC_BeA{@_A_AsAgB_AcB{@mBq@cB[qAi@cCw@yCiBkFw@uAqAwBoA{AyAqA_HiFy@k@yBiA}Ak@i@OsB_@yCw@qEuAuFgAeAQwAi@u@k@g@c@WUq@}@w@kB{@eCa@wASkA_@sDEaBDiBBuCIkAE]m@yC_@cBCm@u@{CUo@Yq@i@{@c@q@w@w@}BkAiEyBoCoB}C_CqB}AmH}E{DqCgBmAkCoBwBmBkCkCiBsBmCaDoA}A}AaC}@wA{A}Cq@gBeB_EsA_CiAmAu@_@o@[uA_@gCo@}By@y@a@u@[eE}BqDmBy@k@wKgGgB}@cImE{@i@SEw@_@_C_BmAaAaByAy@_@cAGqAQMAABCBE@K@ICGICK@MBCQaAWuBQm@e@}@i@s@]c@W]ABIDI?CAECCE?O@GBA?ABAOw@[yA_@kAQa@_@i@e@c@}@_@{Co@]MkCiAWK[EWCu@F_@Ni@Z{@x@{@f@sAn@@@?@?D?BEHG@IAEEAI@Ce@C{AHo@Pe@ZiBbCsBrCwA|AuBlBgBrBqDjEaJfKo@v@Uj@K\\a@Ma@UMQy@yAMWCQAq@AsB?_CH{@PwAHuANeD@{BAKW@KCKKIaBEm@MYMOSOiAa@YAIHAF?XE\\CLSTCHGTC`CAvC@lA"
+         },
+         "summary" : "青沙公路/8 號幹線",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
