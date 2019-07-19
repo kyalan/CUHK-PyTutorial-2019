@@ -1,3 +1,6 @@
+import os
+os.chdir('C:/Users/user/Documents/CUHKPyTutorial2019-20190711T013955Z-001/CUHKPyTutorial2019/Week4')
+
 import urllib.request, urllib.parse, urllib.error
 import twurl
 import ssl
@@ -21,7 +24,9 @@ while True:
     print('Retrieving', url)
     connection = urllib.request.urlopen(url, context=ctx)
     data = connection.read().decode()
-    print(data[:250])
+    print('Retrieved', len(data), 'character.')
+    js = json.loads(data)
+    print(js[0].keys(), '\nndata =', len(js))
     headers = dict(connection.getheaders())
     # print headers
     print('Remaining', headers['x-rate-limit-remaining'])
