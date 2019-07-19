@@ -7,7 +7,7 @@ Created on Mon Feb  4 12:24:36 2019
 
 
 def googleMap_secret():
-    return 'AIzaSyDXQBUjfJOK8kRJrDa3w7ShLWlp2pU9q5A'
+    return 'Please refer to CUHK blackboard'
 
 def getGeojs(address, verbose=False):
 
