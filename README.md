@@ -3,7 +3,8 @@ Python 101 Summer Course for CUHK MSc Data Science and Business Statistics, in 2
 
 # Week 5 notes have been uploaded.
 [Update on 2 August]\
-In addition, please well noted that we will see at **WMY 301**
+In addition, please well noted that we will see at **WMY 301**<br>
+Please bring your laptop with Anaconda installed.
 
 # Week 4 notes have been uploaded.
 [Update on 19 July]
